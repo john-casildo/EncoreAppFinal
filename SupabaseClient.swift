@@ -7,8 +7,8 @@ import Foundation
 // 3. Paste them below
 // ─────────────────────────────────────────────
 struct SupabaseConfig {
-    static let url = "https://YOUR_PROJECT_ID.supabase.co"
-    static let anonKey = "YOUR_ANON_KEY_HERE"
+    static let url = "https://oxqawqbomhciqmstzoos.supabase.co"
+    static let anonKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im94cWF3cWJvbWhjaXFtc3R6b29zIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE4NDE4NzksImV4cCI6MjA4NzQxNzg3OX0.1bom887ZH5zGE2eVtPoOzXyFYHwilcMnbM0Tj32tyU0"
 }
 
 // Simple HTTP client for Supabase REST API
